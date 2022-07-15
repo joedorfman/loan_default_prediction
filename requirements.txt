@@ -44,7 +44,7 @@ datashape==0.5.4
 decorator==4.3.0
 defusedxml==0.6.0
 dill==0.3.1.1
-distributed==1.28.1
+distributed==2021.10.0
 docker==4.1.0
 docker-compose==1.25.4
 dockerpty==0.4.1
